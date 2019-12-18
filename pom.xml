@@ -139,7 +139,7 @@
         </property>
       </activation>
       <properties>
-        <hadoopVersion>1.0.3</hadoopVersion>
+        <hadoopVersion>1.2.1</hadoopVersion>
       </properties>
     </profile>
     
